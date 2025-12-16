@@ -1,4 +1,4 @@
-# Stroke Risk Prediction Web App (FastAPI + Next.js + Scikit-learn)
+# Stroke Risk Prediction Web App 
 
 ## 1. Overview
 
