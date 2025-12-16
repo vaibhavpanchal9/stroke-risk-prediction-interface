@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Models & data (optional – choose one)
+models/*.joblib
+data/*.csv
+
+# Node / Next.js
+node_modules/
+.next/
+npm-debug.log*
+package-lock.json
+
+# OS
+.DS_Store
